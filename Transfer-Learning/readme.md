@@ -1,1 +1,1 @@
-## Implementing VGG 18 netowrk using transfer learning
+## Implementing VGG 18 network using transfer learning
