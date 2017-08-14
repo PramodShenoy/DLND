@@ -1,4 +1,10 @@
 # DLND
-Siraj's deep learning foundations ND practice codes
-#### Contains only practice and assignment codes 
-#### Another repo for projects
+## Contains code and notebooks for the lessons
+### Contents
+* CNN
+* RNN 
+* GAN
+* DCGAN
+* TFLearn
+* Tensorflow
+* Transfer-Learning
